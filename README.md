@@ -1,5 +1,5 @@
 # DevOps
-## les étapes réalisé
+## les étapes réalisés
 
 ## 1- Mise en place de la plateforme
 L’environnement est déployé dans un cluster Docker Swarm (sur Amazon AWS) en utilisant l’outil Docker Machine avec la configuration suivante:
